@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "人脸",
+  "usingComponents": {
+    "van-button": "/wxcomponents/vant/dist/button/index",
+    "headers": "/components/headers",
+    "tab-bar": "/components/tabbar"
+  }
+}

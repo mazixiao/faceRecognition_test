@@ -1,0 +1,19 @@
+人脸识别demo
+
+uni-app开发微信小程序 一
+https://www.jianshu.com/p/dfa74aa41c38
+
+
+
+uni-app开发微信小程序引入UI组件库(Vant-weapp)步骤
+https://www.cnblogs.com/roseAT/p/11200203.html
+
+
+
+
+https://developers.weixin.qq.com/miniprogram/dev/component/camera.html
+
+
+参考:
+
+https://blog.csdn.net/ffcjjhv/article/details/86522208
